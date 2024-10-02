@@ -1,0 +1,52 @@
+ [
+    {
+      "question": "HTML neyin kısaltmasıdır?",
+      "options": ["Hyper Text Markup Language", "Home Tool Markup Language", "Hyperlinks and Text Markup Language", "Hyperlinks Text Markup Language"],
+      "answer": "Hyper Text Markup Language"
+    },
+    {
+      "question": "Bir HTML sayfasının başlık etiketi hangisidir?",
+      "options": ["<head>", "<title>", "<header>", "<meta>"],
+      "answer": "<title>"
+    },
+    {
+      "question": "<a> etiketi ne için kullanılır?",
+      "options": ["Bağlantı oluşturmak", "Liste oluşturmak", "Resim eklemek", "Paragraf oluşturmak"],
+      "answer": "Bağlantı oluşturmak"
+    },
+    {
+      "question": "Bir HTML dosyasının başlangıç etiketi hangisidir?",
+      "options": ["<html>", "<body>", "<div>", "<head>"],
+      "answer": "<html>"
+    },
+    {
+      "question": "HTML'de resim eklemek için hangi etiket kullanılır?",
+      "options": ["<image>", "<img>", "<pic>", "<src>"],
+      "answer": "<img>"
+    },
+    {
+      "question": "HTML5'te yerel depolama (local storage) için hangi API kullanılır?",
+      "options": ["sessionStorage", "localStorage", "webStorage", "cookieStorage"],
+      "answer": "localStorage"
+    },
+    {
+      "question": "<br> etiketi ne işe yarar?",
+      "options": ["Sayfa sonu ekler", "Satır sonu ekler", "Paragraf oluşturur", "Boşluk ekler"],
+      "answer": "Satır sonu ekler"
+    },
+    {
+      "question": "HTML'de tablo oluşturmak için kullanılan ana etiket nedir?",
+      "options": ["<tr>", "<table>", "<td>", "<th>"],
+      "answer": "<table>"
+    },
+    {
+      "question": "Bir HTML formunu nereye gönderileceğini belirlemek için hangi özellik kullanılır?",
+      "options": ["method", "action", "target", "enctype"],
+      "answer": "action"
+    },
+    {
+      "question": "HTML'de yorum satırı nasıl eklenir?",
+      "options": ["<!-- Yorum -->", "<comment>Yorum</comment>", "<!--Yorum-->", "// Yorum"],
+      "answer": "<!-- Yorum -->"
+    }
+  ]
