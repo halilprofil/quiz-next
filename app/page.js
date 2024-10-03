@@ -1,5 +1,5 @@
 "use client";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import Image from 'next/image'; 
 import cssData from './cssData.json';
 import jsData from './jsData.json';
@@ -24,14 +24,12 @@ export default function Home() {
     setButtonColors(['', '', '', '']);
   };
 
-  
   const handleShowJsData = () => {
     setCount(0);
     setShowData(jsData); 
     setButtonColors(['', '', '', '']);
   };
 
-  
   const submitAnswer = () => {
     setRequired(true); 
     if (buttonColors.includes('green')) { 
@@ -41,7 +39,6 @@ export default function Home() {
     setButtonColors(['', '', '', '']); 
   };
 
-  
   function checkAnswer(optionIndex) {
     if (!showData || !showData[count]) return;
 
@@ -60,13 +57,11 @@ export default function Home() {
     setButtonColors(newButtonColors); 
   }
 
-  
   function playAgain() {
     setShowData(null);
     setCount(0); 
   }
 
-  
   function Quiz() {
     if (!showData || !showData[count]) return null;
 
@@ -119,7 +114,7 @@ export default function Home() {
         <div className={!showData ? 'start' : 'none'}>
 
           <div className='context'>
-            <p>Frontend Quiz'e Hoş Geldiniz!</p>
+            <p>Frontend Quiz&apos;e Hoş Geldiniz!</p>
             <h1>Frontend Testine Başlayın</h1>
             <span>Başlamak için bir konu seçin.</span>
           </div>
