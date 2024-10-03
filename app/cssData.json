@@ -1,0 +1,52 @@
+[
+    {
+      "question": "CSS neyin kısaltmasıdır?",
+      "options": ["Cascading Style Sheets", "Creative Style Sheets", "Computer Style Sheets", "Colorful Style Sheets"],
+      "answer": "Cascading Style Sheets"
+    },
+    {
+      "question": "CSS'te arka plan rengi değiştirmek için hangi özellik kullanılır?",
+      "options": ["background-color", "color", "background-image", "bg-color"],
+      "answer": "background-color"
+    },
+    {
+      "question": "CSS ile metin rengini ayarlamak için hangi özellik kullanılır?",
+      "options": ["color", "font-color", "text-color", "background-color"],
+      "answer": "color"
+    },
+    {
+      "question": "CSS'te bir öğeyi sola hizalamak için hangi özellik kullanılır?",
+      "options": ["float", "align", "left", "text-align"],
+      "answer": "float"
+    },
+    {
+      "question": "CSS'te sınıf seçicisi nasıl tanımlanır?",
+      "options": [".sınıf", "#sınıf", "sınıf", "class.sınıf"],
+      "answer": ".sınıf"
+    },
+    {
+      "question": "CSS'te id seçicisi nasıl tanımlanır?",
+      "options": [".id", "#id", "id", "id#"],
+      "answer": "#id"
+    },
+    {
+      "question": "CSS'te padding neyi ifade eder?",
+      "options": ["İç boşluk", "Dış boşluk", "Kenar boşluğu", "Çerçeve"],
+      "answer": "İç boşluk"
+    },
+    {
+      "question": "CSS'te display: none; özelliği ne yapar?",
+      "options": ["Öğeyi gizler", "Öğeyi görünür kılar", "Öğenin stilini kaldırır", "Öğenin rengini değiştirir"],
+      "answer": "Öğeyi gizler"
+    },
+    {
+      "question": "Bir öğenin görünümünü transparan yapmak için hangi CSS özelliği kullanılır?",
+      "options": ["opacity", "visibility", "transparent", "display"],
+      "answer": "opacity"
+    },
+    {
+      "question": "CSS'te flexbox yerleşim sisteminde ana ekseni belirlemek için hangi özellik kullanılır?",
+      "options": ["justify-content", "align-items", "flex-direction", "align-content"],
+      "answer": "flex-direction"
+    }
+  ]

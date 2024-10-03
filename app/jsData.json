@@ -1,0 +1,52 @@
+[
+    {
+      "question": "JavaScript'i HTML dosyasına nasıl ekleyebilirsiniz?",
+      "options": ["<script>", "<javascript>", "<js>", "<code>"],
+      "answer": "<script>"
+    },
+    {
+      "question": "JavaScript'te bir değişken nasıl tanımlanır?",
+      "options": ["var", "let", "const", "Tümü"],
+      "answer": "Tümü"
+    },
+    {
+      "question": "JavaScript'te bir fonksiyon nasıl tanımlanır?",
+      "options": ["function myFunction()", "def myFunction()", "create function myFunction()", "function:myFunction()"],
+      "answer": "function myFunction()"
+    },
+    {
+      "question": "JavaScript'te bir dizinin (array) uzunluğunu nasıl öğrenirsiniz?",
+      "options": ["array.length", "array.size", "array.count", "array.length()"],
+      "answer": "array.length"
+    },
+    {
+      "question": "JavaScript'te bir ifadenin doğru olup olmadığını kontrol etmek için hangi anahtar kelime kullanılır?",
+      "options": ["if", "else", "while", "for"],
+      "answer": "if"
+    },
+    {
+      "question": "JavaScript'te bir döngü oluşturmak için hangi yapı kullanılabilir?",
+      "options": ["for", "while", "do-while", "Tümü"],
+      "answer": "Tümü"
+    },
+    {
+      "question": "JavaScript'te bir objeye yeni bir özellik nasıl eklenir?",
+      "options": ["obj.property = value", "obj['property'] = value", "Tümü", "Eklenemez"],
+      "answer": "Tümü"
+    },
+    {
+      "question": "JavaScript'te alert() fonksiyonu ne yapar?",
+      "options": ["Bir uyarı mesajı gösterir", "Bir hata mesajı gösterir", "Bir onay kutusu gösterir", "Bir input kutusu gösterir"],
+      "answer": "Bir uyarı mesajı gösterir"
+    },
+    {
+      "question": "JavaScript'te '===' operatörü neyi kontrol eder?",
+      "options": ["Eşitlik ve tip", "Sadece eşitlik", "Sadece tip", "Eşitsizlik"],
+      "answer": "Eşitlik ve tip"
+    },
+    {
+      "question": "JavaScript'te bir dizideki son öğeyi çıkarmak için hangi metod kullanılır?",
+      "options": ["pop()", "shift()", "push()", "unshift()"],
+      "answer": "pop()"
+    }
+  ]
